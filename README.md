@@ -1,4 +1,4 @@
 # Joke-Virus-
 Try running it.
 
-Developer not responsible for any consequences of running this program.
+Use responsibly. Developer not responsible for any consequences of running this program.
